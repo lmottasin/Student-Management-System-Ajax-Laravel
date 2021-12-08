@@ -36,7 +36,7 @@ A Student Management System for storing the information of students at one place
 ## Built With
 * Front-end: HTML, CSS, JS, BOOTSTRAP
 * Back-end: PHP , MySql
-* Framework: Laravel 8
+* Framework: Laravel 8, Ajax, jQuery
 * IDE: PhpStorm
 
 <p align="right">(<a href="#top">back to top</a>)</p>
