@@ -1,4 +1,4 @@
-# Student-Mangament-System-Ajax-Laravel-CRUD
+# Student-Mangament-System-Ajax-jQuery-Laravel-CRUD
 
 ---
 ## Project Video
